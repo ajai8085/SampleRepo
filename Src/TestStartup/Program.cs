@@ -19,7 +19,7 @@ namespace TestStartup
             Console.Read();
         }
 
-        public static void Launchpad()
+        public static void Launchpad(string argument)
         {
             Console.WriteLine("new launch pad function to commit");
         }
